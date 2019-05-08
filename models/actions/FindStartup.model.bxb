@@ -1,0 +1,11 @@
+action (FindStartup) {
+  type (Search)
+  collect {
+    input (startup) {
+      type (StartupEnum)
+      min (Optional)
+      max (One)
+    }
+  }
+  output (Startup)
+}

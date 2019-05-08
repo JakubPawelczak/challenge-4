@@ -1,0 +1,5 @@
+train (t-kyxrdsi3o6b7ls15e5w4ish1l) {
+  utterance ("[g:Startup] what is the (glasses)[v:StartupEnum:Glasses] startup")
+  plan (Y2BmUCjISaxML8ovzUvRS85IzMlJzUtPdcsvLdILLkksKiktYFDBqcItMy+FsCqoCte80lwGJgZGIGYAkowMIMAEwQA=)
+  last-modified (1556547845864)
+}

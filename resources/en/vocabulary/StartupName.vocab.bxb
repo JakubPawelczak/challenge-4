@@ -1,0 +1,17 @@
+vocab (StartupEnum) {
+  "GoldenStandard" {
+    "golden standard"
+  }
+  "ThatFork" {
+    "that fork"
+  }
+  "MrBunny" {
+    "Mr. Bunny"
+  }
+  "Books" {
+    "books"
+  }
+  "Glasses" {
+    "glasses"
+  }
+}

@@ -1,0 +1,5 @@
+train (t-w4nm0qd4n0mcysnsfjpf1og7h) {
+  utterance ("[g:Startup] what is (golden standard)[v:StartupEnum:GoldenStandard]")
+  plan (Y2BmUCjISaxML8ovzUvRS85IzMlJzUtPdcsvLdILLkksKiktYFDBqcItMy+FsCqoCte80lwGJgZGIGYAkowMIMAEwQA=)
+  last-modified (1556547816519)
+}
